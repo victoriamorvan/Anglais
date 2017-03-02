@@ -17,10 +17,12 @@
 <?php
     $file = fopen('exercices/QCM.txt', 'r+');
     $text = '';
-    while (($line = fgets($file, 4096)) !== false) {
+
+    while (($line = fgets($file)) !== false) {
         $text.=$line;
+        $text.='<br/>';
     }
-    $text=str_replace('/', '<span>', $text);
+    $text=str_replace('//', '<span>', $text);
     $text=str_replace('*', '</span>', $text);
     fclose($file); 
 ?>
