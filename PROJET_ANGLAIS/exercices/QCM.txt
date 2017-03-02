@@ -1,29 +1,80 @@
+<b><u>Texte à trous :</u></b> &nbsp<i> title - layouts  - among - chart - executive </i>
+
+An organization chart is a diagram of a reporting hierarchy that is commondly used to show relationships //among* employees, titles and group. Whether yours is a start-up company or an established intuition, XXXdraw is the smartest way to //title* and manage the structure of any company. The shapes in your org chart can display //chart* or details sush as departement and cost center. You can even add pictures to the org chart shapes. Managers, buisness professionals, and //executive* assistants wil benefit from automatic chart drawing, custom formatting, compact //layouts* and easy editing.
+
+<b><u>Compléter avec la bonne réponse parmi les propositions :</u></b>
+
 <b>1.</b> Please everyone, after we //wrap up*, don't forget to sign the attendance form on the way out.
-&nbsp &nbsp &nbsp speculate - sign - collaborate - wrap up 
+&nbsp &nbsp &nbsp <i> speculate - sign - collaborate - wrap up </i>
 	
 <b>2.</b> As Jen was away on business, //a proxy vote* was assigned.
-&nbsp &nbsp &nbsp	an interview - a proxy vote - a show of hands - an agenda
+&nbsp &nbsp &nbsp	<i>an interview - a proxy vote - a show of hands - an agenda</i>
 
 <b>3.</b> This year's profits will be discussed at the //AGM*.
-&nbsp &nbsp &nbsp	AOB - AGM - DIY - ABC
+&nbsp &nbsp &nbsp	<i>AOB - AGM - DIY - ABC</i>
 
 <b>4.</b> The board members wanted the //motion* passed so they held a vote.
-&nbsp &nbsp &nbsp	proxy - following - motion -  consensus
+&nbsp &nbsp &nbsp <i>	proxy - following - motion -  consensus</i>
 
-<b>5.</b> Board members were unable to reach /a consensus* on that matter.
-&nbsp &nbsp &nbsp	an activity - a caution - custody - a consensus
+<b>5.</b> Board members were unable to reach //a consensus* on that matter.
+&nbsp &nbsp &nbsp	<i>an activity - a caution - custody - a consensus</i>
 
 <b>6.</b>  In his //closing remarks* the chairman wished everyone a happy Christmas vacation.
-&nbsp &nbsp &nbsp	confidence - deadline - curfew - closing remarks
+&nbsp &nbsp &nbsp <i>	confidence - deadline - curfew - closing remarks</i>
 
 <b>7.</b> If you have a //comment* please wait until the end of the conderence.
-&nbsp &nbsp &nbsp	commitment - comment - commencement - commerce
+&nbsp &nbsp &nbsp	<i>commitment - comment - commencement - commerce</i>
 
 <b>8.</b>  We'll commence as soon as all of the //board* members are seated.
-&nbsp &nbsp &nbsp	board - broad - brainstorm - beard
+&nbsp &nbsp &nbsp	<i>board - broad - brainstorm - beard</i>
 
 <b>9.</b>  The meeting will start //promptly* at nine. 
-&nbsp &nbsp &nbsp	early - promptly - punctual - hourly
+&nbsp &nbsp &nbsp<i>	early - promptly - punctual - hourly</i>
 
 <b>10.</b> As we were running out of time, we had to //adjourn* the meeting.
-	&nbsp &nbsp &nbsp allocate - designate - adjourn - implement
+	&nbsp &nbsp &nbsp <i> allocate - designate - adjourn - implement</i>
+
+<b><u>Texte à trous : </u></b>
+
+&nbsp &nbsp &nbsp <i><b>texte 1 :</b> minutes - leave - short notice - agenda - item - small talk - roll call</i>
+
+"I think we'll begin now. First I'd like to welcome you all and thank everyone for coming, especially at sush //short notice*. I know you are all very busy and it's difficult to take time away from your daily tasks for meetings, so let's not waste time in //small talk*. We won't need a //roll call* for it seems that everyone is here today, except for Nancy who is on maternity //leave* and Joey who has been called away on business. Mike will be standing in to take the //minutes* today. Since organising stays for our Japanese visitors is the first //item* on the //agenda*, I'd like to take a moment to introduce Alice, our new tour coordinator."
+
+&nbsp &nbsp &nbsp <i><b>texte 2 : </b>attendees - hold - outline - provide - overhead projector - agenda</i>
+
+Some people who //hold* meetings prefer to pass around copies of the //agenda*, and others will post a large copy on a wall or use an //overhead projector*. No matter which format is used, //attendees* should be able to follow the agenda as the meeting progresses. Before beginning the first main item on the agendal, the speakers should //provide* a brief //outline* of the objectives.
+
+
+<b><u>Compléter les phrases avec le mot qui convient : </u></b>
+&nbsp &nbsp &nbsp <i>consensus - implement - address - mandatory - show of hands - deadline -  grievances - guest speaker - opening remarks - wrap up - chair</i>
+
+<b>1.</b> The meeting cannot start before the //guest speaker* has arrived.
+<b>2.</b> I'd rather not let him //adress* this matter again.
+<b>3.</b> In his //opening remarks*, the chair mentioned Aziz was away on business.
+<b>4.</b> Our service will need to //implement* the new regulations.
+<b>5.</b> The //deadline* for handing in your reports is next Friday.
+<b>6.</b> We'll need a //chair* for the conference.
+<b>7.</b> The //board of directors* has decided to hire new personnel. 
+<b>8.</b> Let's try to come a //consensus* by the end of the meeting
+<b>9.</b> It is //mandatory* that all reports be back to days before the next meeting.
+<b>10.</b> The //show of hands* seems to confirm we are all favorable to the motion.
+<b>11.</b> We'll be holding a special meeting to adress all staff //grievances*.
+<b>12.</b> Before we //wrap up*, I want to thank all of you for coming.
+
+<b><u>Texte à trous :</u></b> 
+&nbsp &nbsp &nbsp <i>impersonality - forgotten - assumed - rude- interaction</i>
+
+Flaming occurs when one person sends an angry and/or antagonistic message. Flaming is //assumed* to be more common today because of the ease and the //impersonality* of e-mail communications : confrontations in person or via telephone require direct //interaction*, where social norms encourage civility, whereas typing a message to another person is indirect, so civility may be //forgotten*. Flaming is generally looked down upon by internet communities as it is considered //rude* and non-productive. 
+
+
+<b><u>Compléter avec la bonne réponse parmi les propositions :</u></b>
+
+Dear Kumar,
+
+Because Gerry is out of the office for the next <b>1.</b> //couple* of weeks, I am ackowledging <b>2.</b> //receipt* of your letter date June 18. It will be brought to his <b>3.</b> //attention* immediately upon his return. If I may be of any assistance during Gerry's absence, please do not hesitate to call.
+Kind <b>4.</b>//regards*.
+
+&nbsp &nbsp &nbsp <b>1.</b><i> couple - two - series - triplet </i>
+&nbsp &nbsp &nbsp <b>2.</b><i> recipient - receiving -receipt - recipe</i>
+&nbsp &nbsp &nbsp <b>3.</b><i> stare - attention - eyes - regard</i>
+&nbsp &nbsp &nbsp <b>4.</b><i> hugs - cuddles -hello - regards</i>

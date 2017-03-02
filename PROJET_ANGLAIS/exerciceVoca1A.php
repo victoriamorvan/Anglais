@@ -67,7 +67,7 @@
     <div class="panel">
      <div class="title">
        <h1>Exercices</h1>
-       <h2>Ici tu pourras trouver toutes des exercices utiles à ta réussite </h2>
+       <h2>Suis les consignes pour tester tes connaissances sur le vocabulaire ! </h2>
      </div>
     
     <div class="portfolio-content">
