@@ -1,0 +1,2 @@
+hello	bonjour
+good byz	au revoir
