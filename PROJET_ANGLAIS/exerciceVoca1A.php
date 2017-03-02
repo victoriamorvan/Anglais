@@ -15,7 +15,7 @@
 
 
 <?php
-    $file = fopen('exercices/exercices1A.txt', 'r+');
+    $file = fopen('exercices/QCM.txt', 'r+');
     $text = '';
     while (($line = fgets($file, 4096)) !== false) {
         $text.=$line;
@@ -69,7 +69,7 @@
      </div>
     
     <div class="portfolio-content">
-     <ul class="portfolio-categ filter">
+    <ul class="portfolio-categ filter">
         <li class="all active"><a href="pageExe1A.php">Grammaire</a></li>
         <li class="cat-item-1"><a href="exerciceVoca1A.php" title="">Vocabulaire</a></li>
         <li class="cat-item-2"><a href="#" title="Category 2">TOEIC</a></li>
@@ -78,11 +78,10 @@
         <li class="cat-item-5"><a href="#" title="Category 5">Culture G</a></li>
       </ul>
     </div>
-   <div class="fiche">
-    <p>
-      Des exercices qui résument tout ce qu'on a fait pendant l'année et qui font marcher vos méninges et évidemment fait avec amour pour vous par nous.
-     
-    </p>
+    <div class="content" id="exo"> 
+            <p></p>
+            <button id="validate">See the correction</button>
+    </div>
    </div>
   </div>
    
@@ -106,6 +105,18 @@
     <script src="js/hoverIntent.js"></script>
     <script src="js/superfish.js"></script>
     <script type="text/javascript">
+
+        // initialise plugins
+        jQuery(function(){
+            jQuery('#example').superfish({
+                //useClick: true
+            });
+        });
+        // Récpération des variables PHP en JS //
+        var text = <?php echo json_encode($text); ?>;
+
+    </script>
+   // <script src="js/exercices.js"></script>
 
 </body>
 </html>

@@ -60,7 +60,7 @@ BANNER CLASSES
 PAGE CLASSES
 -------------------------------------------------*/
 .page{}
-.page .fiche p {  padding-bottom:20px; font-size:18px;  text-align: right;    margin-right: 250px;}
+.page .fiche p {  padding-bottom:20px; font-size:18px;margin-left:40px;  text-align: right;    margin-right: 250px;}
 .page .content p{ padding-bottom:20px; font-size:18px; float: left;}
 .page .panel .title img{border:8px solid; width:150px;height: 250; color:LightSlateGray; margin: 0 ;float: left;margin-top: -405px;}
 .page .panel .title p{margin-top:90px; text-align: justify; font-size:18px;padding-left: 200px;}
