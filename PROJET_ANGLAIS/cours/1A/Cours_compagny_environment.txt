@@ -1,0 +1,120 @@
+ORGANISATION CHARTS
+organisation charts : organigramme
+box : case
+diagram : diagramme, schéma, graphique
+draft, rough outline : brouillon, premier jet
+flowchart : diagramme (employant des ronds, des triangles et des flêches)
+graph : graphique, diagramme
+layout : plan, mise en page, présentation
+mind map/spidergram(me) : carte heuristique, carde des idées (représentation graphique des processus de pensée)
+network diagram : schéma des réseaux
+organization chart, org chart : organigramme
+outline : schéma, grandes lignes
+pie chart : graphique à secteurs, camembert
+template : modèle informatique
+UML (Unified Modeling Language) : langage de modélisation unifiée (langage graphique de modélisation des données et des traitements)
+unknowns : inconnus
+
+POSITIONS
+Positions : postes
+CEO(Chief Executive Officer)/Managing Director-MD(uk) : PDG
+Sales and Purchasing Manager : Responsable des ventes et des achats
+Purchasing Assistant : Adjoint aux achats
+Sales Assistant : Adjoint aux ventes
+Administration Assistant : Secrétariat administratif
+Financial Coordinator : Coordinateur financier
+Financial Analyst : Analyste financier
+Accountant : Comptable
+Planning and Budget : Plannification et budget
+Innovation Strategy : Stratégie et Innovation
+Research & Development : R & D
+
+(to be) accountable for, in charge of : être responsable de
+accountant : comptable 
+accountancy : comptabilité
+auditee : audité 
+auditor : auditeur
+board of directors : conseil d'administration
+chairman/chairwoman : président(e)
+clerck : employé de bureau (office clerck, blank clerk...)
+departement : service
+financial director : directeur financier
+foreman : contremaître (chantier)
+human ressources : ressources humaines
+(to) implement : appliquer, exécuter, mettre en oeuvre
+junior executive : cadre moyen
+management : direction/gestion
+managing director : directeur général
+partner : associé 
+personnal manager : chef du personnel
+procurement departement : service des approvisionnements
+production line : chaîne de production
+production manager : directeur de production
+proxy : mandataire, délégué, fondé de pouvoir(s)
+purchasing manager : directeur des achats
+Quality Assurance (QA) : assurance qualité
+Quality Controller (QC) : contrôleur qualité
+Quality manager (QM) : directeur qualité
+sales manager : directeur commercial
+senior executive : cadre supérieur
+supervisor : contremaître (usine)
+training manager : responsable des formations 
+warehouse : entrepôt
+warehouse : maganiser
+watchman : gardien de nuit
+worker, laborer : ouvrier
+workshop : atelier 
+
+MEETING/SEMINAR/LECTURE/CONVENTION
+(to) address : s'occuper de, aborder
+(to) adjourn : suspendre
+agenda : ordre du jour
+AGM (Anual General Meeting) : assemblé générale annuelle
+(to) allocate : attribuer, affecter
+asap (as soon as possible) : le plus tôt possible, dans les plus bref délas
+ballot : scrutin/bulletin
+board of directors : la direction/conseil d'administration
+boardroom : salle du conseil/de réunion
+casting vote : vote décisif
+chairperson/chair : président
+closing remarks : phrases de conclusion
+consensus : consensus
+deadline : date limite, délai
+grievance : grief
+guest speaker : invité
+mandatory : obligatoire
+minutes : compte rendu
+motion : motion, proposition
+opening remarks : introdution
+overhead projector : rétroprojecteur
+proxy vote : vote par procuration
+show of hands : vote à main levé
+(to) wrap up : finir conclure
+
+CORRESPONDENCE
+
+correspondence : correspondance
+@ (at sign) : arobase
+(to) acknowledge receipt : accuser réception
+address : adresse
+carbon copy, cc : à envoyer copie (email)
+certified true copy : copie conforme
+cover letter : lettre de motivation, d'explication
+dot : "point" sur Internet, ex orange.com se dit orange dot com
+duplicate : copie
+"Enclosed please find..." : veuillez trouver ci-joint
+FAQ (Frequently Asked Questions) : foire aux questions
+field : champ
+fountain pen : stylo-plume
+header : en-tête
+I look foward to hearing from you : Dans l'attente de vous lire
+miscellaneous : divers
+pen pal : correspondant 
+provider : fournisseur d'accès
+recipient : destinataire
+resume, résumé  CV
+rubber(uk), eraser(us) : gomme
+search engine : moteur de recherche
+sender : expéditeur 
+snail mail address : adresse postale
+sationery : articles de papetrie
