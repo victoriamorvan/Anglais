@@ -1,29 +1,28 @@
-<<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>ValidetonsemestreaTNCY</title>
-    <link rel="shortcut icon" type="image/x-icon" href="icone.jpg" />
-    <link href="css/styles.css" rel="stylesheet" type="text/css" />
-    <link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/superfish.css" media="screen">
+<title>ValidetonsemestreaTNCY</title>
+<link rel="shortcut icon" type="image/x-icon" href="/imagesicone.jpg" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/superfish.css" media="screen">
+<script src="js/jquery-1.9.0.min.js"></script>
+<script src="js/hoverIntent.js"></script>
+<script src="js/superfish.js"></script>
+<script>
+
+    // initialise plugins
+    jQuery(function(){
+      jQuery('#example').superfish({
+        //useClick: true
+      });
+    });
+
+    </script>
 
 </head>
-
-
-<?php
-    $file = fopen('cours/1A/vocabulaire.txt', 'r+');
-    $text = '';
-
-    while (($line = fgets($file)) !== false) {
-        $text.=$line;
-        $text.='<br/>';
-    }
-    $text=str_replace('//', '<span>', $text);
-    $text=str_replace('*', '</span>', $text);
-    fclose($file); 
-?>
-
 <body>
 <div class="header-wrap">
   <div class="logo">
@@ -61,7 +60,7 @@
 <div class="page">
   <div class="panel">
     <div class="title">
-      <h1>Cours</h1>
+      <h1>COURS</h1>
       <h2>Ici tu pourras trouver toutes les leçons utiles à ta réussite </h2>
     </div>
     
@@ -77,12 +76,15 @@
       <li class="cat-item-4"><a href="#" title="Category 4">Reading</a></li>
       <li class="cat-item-5"><a href="#" title="Category 5">Culture G</a></li>
     </ul>
+    
   </div>
-  <div class="content">
-   <p>
-     <?php echo $text; ?>
+  
+    <div class="fiche">
+    <p>
+      Des fiches fait avec amour pour vous par nous. Avec tendresse.
     </p>
-   </div> 
+    </div>
+  
   </div>
 </div>
 <!---page-wrap-end--->
@@ -93,28 +95,14 @@
     </div>
   </div>
 </div>
-    <!---footer-wrap--->
-    <div class="clear"></div>
-    <div class="copyright-wrap">
-      <div class="copyright">
-        <div class="content">
-          <p> Designed by : Victoria MARTIN et Leilia NAFA, élèves ingénieures à Télécom Nancy  |  Images From: <a href="www.photorack.net" class="link"> www.photorack.net</a></p></p>
-        </div>
-      </div>
+<!---footer-wrap--->
+<div class="clear"></div>
+<div class="copyright-wrap">
+  <div class="copyright">
+    <div class="content">
+      <p> Designed by : Victoria MARTIN et Leilia NAFA, élèves ingénieures à Télécom Nancy  |  Images From: <a href="www.photorack.net" class="link"> www.photorack.net</a></p>
     </div>
-    <script src="js/jquery-1.9.0.min.js"></script>
-    <script src="js/hoverIntent.js"></script>
-    <script src="js/superfish.js"></script>
-    <script type="text/javascript">
-
-        // initialise plugins
-        jQuery(function(){
-            jQuery('#example').superfish({
-                //useClick: true
-            });
-        });
-        // Récpération des variables PHP en JS //
-        var text = <?php echo json_encode($text); ?>;
-
+  </div>
+</div>
 </body>
 </html>

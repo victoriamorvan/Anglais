@@ -1,2 +1,122 @@
-hello	bonjour
-good byz	au revoir
+<b><u>ORGANISATION CHARTS</u></b>
+
+organisation charts : organigramme
+box : case
+diagram : diagramme, schema, graphique
+draft, rough outline : brouillon, premier jet
+flowchart : diagramme (employant des ronds, des triangles et des fleches)
+graph : graphique, diagramme
+layout : plan, mise en page, presentation
+mind map/spidergram(me) : carte heuristique, carde des idees (representation graphique des processus de pensee)
+network diagram : schema des reseaux
+organization chart, org chart : organigramme
+outline : schema, grandes lignes
+pie chart : graphique a secteurs, camembert
+template : modele informatique
+UML (Unified Modeling Language) : langage de modelisation unifiee (langage graphique de modelisation des donnees et des traitements)
+unknowns : inconnus
+
+<b><u>POSITIONS</u></b>
+
+Positions : postes
+CEO(Chief Executive Officer)/Managing Director-MD(uk) : PDG
+Sales and Purchasing Manager : Responsable des ventes et des achats
+Purchasing Assistant : Adjoint aux achats
+Sales Assistant : Adjoint aux ventes
+Administration Assistant : Secretariat administratif
+Financial Coordinator : Coordinateur financier
+Financial Analyst : Analyste financier
+Accountant : Comptable
+Planning and Budget : Plannification et budget
+Innovation Strategy : Strategie et Innovation
+Research & Development : R & D
+(to be) accountable for, in charge of : etre responsable de
+accountant : comptable 
+accountancy : comptabilite
+auditee : audite 
+auditor : auditeur
+board of directors : conseil d'administration
+chairman/chairwoman : president(e)
+clerck : employe de bureau (office clerck, blank clerk...)
+departement : service
+financial director : directeur financier
+foreman : contremaitre (chantier)
+human ressources : ressources humaines
+(to) implement : appliquer, executer, mettre en oeuvre
+junior executive : cadre moyen
+management : direction/gestion
+managing director : directeur general
+partner : associe 
+personnal manager : chef du personnel
+procurement departement : service des approvisionnements
+production line : chaine de production
+production manager : directeur de production
+proxy : mandataire, delegue, fonde de pouvoir(s)
+purchasing manager : directeur des achats
+Quality Assurance (QA) : assurance qualite
+Quality Controller (QC) : controleur qualite
+Quality manager (QM) : directeur qualite
+sales manager : directeur commercial
+senior executive : cadre superieur
+supervisor : contremaitre (usine)
+training manager : responsable des formations 
+warehouse : entrepot
+warehouse : maganiser
+watchman : gardien de nuit
+worker, laborer : ouvrier
+workshop : atelier 
+
+<b><u>MEETING/SEMINAR/LECTURE/CONVENTION</u></b>
+
+(to) address : s'occuper de, aborder
+(to) adjourn : suspendre
+agenda : ordre du jour
+AGM (Anual General Meeting) : assemble generale annuelle
+(to) allocate : attribuer, affecter
+asap (as soon as possible) : le plus tot possible, dans les plus bref delas
+ballot : scrutin/bulletin
+board of directors : la direction/conseil d'administration
+boardroom : salle du conseil/de reunion
+casting vote : vote decisif
+chairperson/chair : president
+closing remarks : phrases de conclusion
+consensus : consensus
+deadline : date limite, delai
+grievance : grief
+guest speaker : invite
+mandatory : obligatoire
+minutes : compte rendu
+motion : motion, proposition
+opening remarks : introdution
+overhead projector : retroprojecteur
+proxy vote : vote par procuration
+show of hands : vote a main leve
+(to) wrap up : finir conclure
+
+<b><u>CORRESPONDENCE</u></b>
+
+correspondence : correspondance
+@ (at sign) : arobase
+(to) acknowledge receipt : accuser reception
+address : adresse
+carbon copy, cc : a envoyer copie (email)
+certified true copy : copie conforme
+cover letter : lettre de motivation, d'explication
+dot : "point" sur Internet, ex orange.com se dit orange dot com
+duplicate : copie
+"Enclosed please find..." : veuillez trouver ci-joint
+FAQ (Frequently Asked Questions) : foire aux questions
+field : champ
+fountain pen : stylo-plume
+header : en-tete
+I look foward to hearing from you : Dans l'attente de vous lire
+miscellaneous : divers
+pen pal : correspondant 
+provider : fournisseur d'acces
+recipient : destinataire
+resume, resume  CV
+rubber(uk), eraser(us) : gomme
+search engine : moteur de recherche
+sender : expediteur 
+snail mail address : adresse postale
+sationery : articles de papetrie
